@@ -8,7 +8,7 @@
 
 body {
   margin: 0 70px;
-  font-family: roboto;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 14px;
 }
 
@@ -79,7 +79,7 @@ header {
   overflow: scroll;
 }
 
-.sidebar2 {
+.sidebar3 {
   grid-area: sidebar2;
   display: grid;
   grid-template-rows: repeat(5, 100px);
