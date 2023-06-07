@@ -57,13 +57,13 @@ header {
   grid-area: sidebar1;
 }
 
-.suggestions {
+#suggestions {
   display: flex;
   align-items: center;
   margin-left: 10px;
 }
 
-.suggestions iframe {
+#suggestions iframe {
   border-radius: 10px;
   margin: 0 10px 0 10px;
 }
